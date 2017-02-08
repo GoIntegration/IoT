@@ -8,3 +8,6 @@ asd
 
 ## Why would I publish multiple version of lambda function?
 ### Answer :
+
+## How to manage adminstrative access for EC2 instance where I am hosting database or storage filesystem?
+### Answer :
