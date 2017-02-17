@@ -11,3 +11,6 @@ asd
 
 ## How to manage adminstrative access for EC2 instance where I am hosting database or storage filesystem?
 ### Answer :
+
+## What is the difference between AWS Kenessis and SQS?
+### Answer :
