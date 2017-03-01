@@ -14,3 +14,6 @@ asd
 
 ## What is the difference between AWS Kenessis and SQS?
 ### Answer :
+
+## What is the difference SSL endpoint and HTTPS endpoint?
+### Answer :
